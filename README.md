@@ -1,4 +1,5 @@
 ## Yuri Gabriel Constantino
+<p>Olá! Eu sou Yuri, e estou em uma jornada de transição de carreira para o mundo da tecnologia. Após 7 anos atuando na área de produção, decidi dar um passo e me aprofundar no universo do desenvolvimento de web, mais especificamente como desenvolvedor full-stack.</p>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriGConstantino&layout=compact&langs_count=7&theme=dracula"/>
 
 ## Ferramentas e Tecnologias
