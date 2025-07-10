@@ -1,5 +1,8 @@
 ## Yuri Gabriel Constantino
-<p>Olá! Eu sou Yuri, e estou em uma jornada de transição de carreira para o mundo da tecnologia. Após 7 anos atuando na área de produção, decidi dar um passo e me aprofundar no universo do desenvolvimento de web, mais especificamente como desenvolvedor full-stack.</p>
+Olá eu sou Yuri  e estou em transição de carreira para me tornar um **desenvolvedor fullstack**. Atualmente, estou focado em aprender e praticar tecnologias que envolvem tanto o **frontend** quanto o **backend** do desenvolvimento web.
+
+Atualmente, estudando tecnologias como **JavaScript**, **TypeScript**, **React**, **Node.js**, **Express** e **Python**. Tenho experiência tanto em desenvolvimento web quanto na construção de APIs escaláveis e aplicações modernas.
+
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriGConstantino&layout=compact&langs_count=7&theme=dracula"/>
 
 ## Ferramentas e Tecnologias
