@@ -23,5 +23,4 @@ Atualmente, estudando tecnologias como **JavaScript**, **TypeScript**, **React**
  <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
  <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
  <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
- <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" />
 </div>
